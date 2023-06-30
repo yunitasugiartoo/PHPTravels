@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_economy_xcrud-action xcrud-button xcrud-red</name>
+   <tag></tag>
+   <elementGuidId>5acc7b41-4ede-427b-886e-7f7aedafc422</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.xcrud-row.xcrud-row-1 > td.xcrud-current.xcrud-actions.xcrud-fix.xcrud-actions-fixed > span > a.xcrud-action.xcrud-button.xcrud-red</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='economy'])[2]/following::a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ef786df5-242f-4c9a-af98-1803bb42f2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xcrud-action xcrud-button xcrud-red</value>
+      <webElementGuid>78d2c1c7-01fd-44fe-9cec-8188718e1b92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>96fef878-3f1b-4aa0-a633-df31a317970c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>44833b10-b2d1-4ef2-b170-f03f937f7162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-primary</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>51a4cff2-1a1f-4c72-8ad0-453416007ebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-task</name>
+      <type>Main</type>
+      <value>remove</value>
+      <webElementGuid>eddbf480-5448-4176-a306-078c5a2a762c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-confirm</name>
+      <type>Main</type>
+      <value>Do you really want remove this entry?</value>
+      <webElementGuid>3c1a625d-d014-47c3-9fe3-4d04c7950e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/section[@class=&quot;w-100&quot;]/div[@class=&quot;container mt-3&quot;]/div[@class=&quot;xcrud&quot;]/div[@class=&quot;xcrud-container&quot;]/div[@class=&quot;xcrud-ajax&quot;]/div[@class=&quot;xcrud-list-container&quot;]/table[@class=&quot;xcrud-list table table-striped table-hover table-bordered&quot;]/tbody[1]/tr[@class=&quot;xcrud-row xcrud-row-1&quot;]/td[@class=&quot;xcrud-current xcrud-actions xcrud-fix xcrud-actions-fixed&quot;]/span[1]/a[@class=&quot;xcrud-action xcrud-button xcrud-red&quot;]</value>
+      <webElementGuid>fdeec9fd-e4f8-4f49-9199-a4bd1b7fbb38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='economy'])[2]/following::a[2]</value>
+      <webElementGuid>757505da-a233-4132-b547-412d44aeb261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DXB'])[1]/following::a[2]</value>
+      <webElementGuid>3f55fc79-5f1b-4011-90cd-43481e9e2a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[1]</value>
+      <webElementGuid>65f02197-eb33-4ddc-845b-5c7aeb38d3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='economy'])[4]/preceding::a[2]</value>
+      <webElementGuid>caeea8f2-a9a2-4400-b48a-bcb6beb788ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[5]</value>
+      <webElementGuid>0ad06e22-ec1a-49ab-82da-cf6609efc20c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[12]/span/a[2]</value>
+      <webElementGuid>226db374-df88-456c-9491-7265ba9fd860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Remove' and @href = 'javascript:;']</value>
+      <webElementGuid>47f7edb3-0e28-4549-9534-9fab8ca8c216</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

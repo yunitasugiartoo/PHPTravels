@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hour_ui-slider-handle ui-state-default ui_035906</name>
+   <tag></tag>
+   <elementGuidId>8d4228e4-a436-413e-9d68-c111ae659c38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-slider-handle.ui-state-default.ui-corner-all.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-datepicker-div']/div[2]/dl/dd[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6b81ef52-64d6-4282-b850-a14fc2816433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-slider-handle ui-state-default ui-corner-all ui-state-hover</value>
+      <webElementGuid>60b3961e-ea84-46b8-b3cd-f0c83af5c176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>0b692403-d22c-44cb-b92b-8adfac0c139e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-datepicker-div&quot;)/div[@class=&quot;ui-timepicker-div&quot;]/dl[1]/dd[@class=&quot;ui_tpicker_hour&quot;]/div[@class=&quot;ui_tpicker_hour_slider ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all&quot;]/a[@class=&quot;ui-slider-handle ui-state-default ui-corner-all ui-state-hover&quot;]</value>
+      <webElementGuid>8fd9802f-b395-4287-b760-917e11f34e38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-datepicker-div']/div[2]/dl/dd[2]/div/a</value>
+      <webElementGuid>d45d4522-f7c5-411a-8129-12424972f275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[151]</value>
+      <webElementGuid>0055c9ac-4c64-479f-811c-747936e90402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dd[2]/div/a</value>
+      <webElementGuid>89d09731-bb85-49bc-92ff-86c53a697b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>d71fb6e4-9f71-4d71-84f2-8af8e4bda2a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

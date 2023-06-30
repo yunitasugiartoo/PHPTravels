@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_paypal-button-label-container</name>
+   <tag></tag>
+   <elementGuidId>5d7222ff-8fe3-4497-9220-cd141b8653d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.paypal-button-label-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttons-container']/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0e66fd01-1bca-49ed-b75c-d4f31e69a525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paypal-button-label-container</value>
+      <webElementGuid>8d6cdeb3-ac79-48c2-a254-75ceda115d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttons-container&quot;)/div[@class=&quot;paypal-button-container paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-single paypal-button-env-sandbox&quot;]/div[@class=&quot;paypal-button-row paypal-button-number-0 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-single paypal-button-env-sandbox paypal-button-color-blue paypal-button-text-color-white paypal-logo-color-white&quot;]/div[@class=&quot;paypal-button paypal-button-number-0 paypal-button-layout-vertical paypal-button-shape-rect paypal-button-number-single paypal-button-env-sandbox paypal-button-color-blue paypal-button-text-color-white paypal-logo-color-white&quot;]/div[@class=&quot;paypal-button-label-container&quot;]</value>
+      <webElementGuid>8ff83544-f63c-4513-8344-c855078584c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Pay With Paypal/iframe_Password___zoid__paypal_buttons__eyJ_7bf51b</value>
+      <webElementGuid>8950de66-0643-4d43-b9bb-f9d2cdee9438</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttons-container']/div/div/div/div</value>
+      <webElementGuid>54af398b-55a4-47cf-94e9-bb1484cfb5ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>2a5092ea-fb02-4aa2-9c24-52e1463bc1af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

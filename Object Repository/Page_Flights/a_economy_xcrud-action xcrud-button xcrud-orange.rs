@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_economy_xcrud-action xcrud-button xcrud-orange</name>
+   <tag></tag>
+   <elementGuidId>30a5ffd3-a01a-4e4e-a497-def435c0d0d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.xcrud-row.xcrud-row-1 > td.xcrud-current.xcrud-actions.xcrud-fix.xcrud-actions-fixed > span > a.xcrud-action.xcrud-button.xcrud-orange</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='economy'])[2]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29985e1e-de0b-4eb2-a42e-a63801a09ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xcrud-action xcrud-button xcrud-orange</value>
+      <webElementGuid>5567f66f-ceb0-4513-8a78-97e9c78ae013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>20eacbd0-fa6c-4f21-94d0-06881aae04dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>f854c019-a84c-40b3-a364-64202bd76b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-primary</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>f826c6df-6e4e-4960-a09d-ff0d5a6344ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-task</name>
+      <type>Main</type>
+      <value>edit</value>
+      <webElementGuid>95df3599-d174-4ac0-8ad9-bca377765886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/section[@class=&quot;w-100&quot;]/div[@class=&quot;container mt-3&quot;]/div[@class=&quot;xcrud&quot;]/div[@class=&quot;xcrud-container&quot;]/div[@class=&quot;xcrud-ajax&quot;]/div[@class=&quot;xcrud-list-container&quot;]/table[@class=&quot;xcrud-list table table-striped table-hover table-bordered&quot;]/tbody[1]/tr[@class=&quot;xcrud-row xcrud-row-1&quot;]/td[@class=&quot;xcrud-current xcrud-actions xcrud-fix xcrud-actions-fixed&quot;]/span[1]/a[@class=&quot;xcrud-action xcrud-button xcrud-orange&quot;]</value>
+      <webElementGuid>f98f30d9-f93d-494d-89e3-33c2a6979e90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='economy'])[2]/following::a[1]</value>
+      <webElementGuid>5947b39b-7b5c-49a3-b9a9-e707dc33ac36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DXB'])[1]/following::a[1]</value>
+      <webElementGuid>bf9d0a53-f91a-4030-83bf-dc221cb76716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[2]</value>
+      <webElementGuid>47b0cd54-de87-4d1f-82d2-5f622cb4ab3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='economy'])[4]/preceding::a[3]</value>
+      <webElementGuid>f3c6dccd-d815-4e62-85ee-12f86bceba76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[4]</value>
+      <webElementGuid>6c769e30-73b1-466c-b15b-ab60b8937121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[12]/span/a</value>
+      <webElementGuid>33c69e31-3ce0-4e4d-9733-d37e913f76df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Edit' and @href = 'javascript:;']</value>
+      <webElementGuid>53acb2c4-eb27-490b-9488-3dc3f8effdfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
